@@ -29,5 +29,3 @@ U2 : @U2 Forum (https://forum.atu2.com/)
 WP : Wrong Planet (https://wrongplanet.net/forums/)
 
 Most data is (American) English and includes post from people from many different countries. LEF is a forum for people who want to learn English and therefore word associations from this source could contain more mistakes. Data from TF contains British English, since this is a forum for British football supporters. AC and WP are internet forums for people with autism, which might also effect the type of word associations.
-
-Number of word association from each source:
